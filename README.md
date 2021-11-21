@@ -1,5 +1,5 @@
 # Speedtest
-**Linux 中国大陆三网测速脚本**
+**三网测速脚本**
 
  ![demo.png](https://raw.githubusercontent.com/sunpma/mtp/master/demo.png)
 
