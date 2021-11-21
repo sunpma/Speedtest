@@ -1,7 +1,7 @@
 # Speedtest
 **中国三大运营商网络宽频测试脚本**
 
- ![demo.png](https://raw.githubusercontent.com/sunpma/mtp/master/demo.png)
+ ![demo.png](https://raw.githubusercontent.com/sunpma/Speedtest/master/demo.png)
 
 ### 测试命令
 ```bash
